@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-data-factory-21",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9695b5ae-cd93-41f4-9897-19e0c2ffc32d",
+		"tenantId": "20469899-81d5-4769-9e25-47c0529b5747"
+	}
+}
